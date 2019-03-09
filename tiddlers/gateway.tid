@@ -1,0 +1,74 @@
+tags: words-pets5
+title: gateway
+type: application/x-tiddler
+
+!!释义
+
+:<div>
+
+gateway
+
+英['geɪtweɪ]美['ɡetwe]
+
+n. 门；网关；方法；通道；途径
+
+</div>
+
+!!【柯林斯英汉双解大词典】
+
+:<div>
+
+gateway /ˈɡeɪtˌweɪ/
+
+(gateways) 
+
+1. N-COUNT A gateway is an entrance where there is a gate. 大门入口 
+
+例： He walked across the park and through a gateway. 他走过那个公园，并穿过一个大门口。 
+
+2. N-COUNT A gateway to somewhere is a place which you go through because it leads you to a much larger place. 门户 
+
+例： Denver is the gateway to some of the best skiing in the world. 丹佛是通往世界上一些最好的滑雪场的门户。 
+
+3. N-COUNT If something is a gateway to a job, career, or other activity, it gives you the opportunity to make progress or get further success in that activity. 途径 
+
+例： The prestigious title offered a gateway to success in the highly competitive world of modelling. 这个有威望的头衔提供了一个在竞争非常激烈的模特圈获得成功的途径。 
+
+4. N-COUNT In computing, a gateway connects different computer networks so that information can be passed between them. 网关 [计算机] 
+
+例： The network has a gateway into the hospital mainframe. 该网络有一个网关连接医院主机。
+
+</div>
+
+!!【词组】
+
+:<div>
+
+default gateway 默认网关；缺省网关
+
+border gateway 
+
+</div>
+
+!!【同近义词】
+
+:<div>
+
+n. [建]门；[计]网关；方法；通道；途径
+
+door,system,mechanism,method,approach
+
+</div>
+
+!!【双语例句】
+
+:<div>
+
+ The car parked at the gateway .车停在大门口。
+
+ dict.cn As there is only one default transmission queue per MQ server , only one gateway queue manager can work with it .因为每个 MQ服务器只有一个缺省传输队列 ，所以只有一个网关队列管理器可以使用它。
+
+ What if you simply cannot have all requests coming through the same service gateway component , but you still want to add some standardized code into every request ?如果您无法让所有请求通过相同的服务网关组件 ，但是您仍然希望向每个请求添加一些标准化代码，该怎么办？
+
+</div>
+

@@ -1,0 +1,100 @@
+tags: words-pets5
+title: overflow
+type: application/x-tiddler
+
+!!释义
+
+:<div>
+
+overflow
+
+英[əʊvə'fləʊ]美[,ovɚ'flo]
+
+vi. 溢出；泛滥；充溢
+
+n. 充满，洋溢；泛滥；超值；溢值
+
+vt. 使溢出；使泛滥；使充溢
+
+[过去式overflowed过去分词overflown现在分词overflowing]
+
+</div>
+
+!!【柯林斯英汉双解大词典】
+
+:<div>
+
+overflow CET6 TEM4
+
+动词读作 ˌəʊvəˈfləʊ 。名词读作 ˈəʊvəˌfləʊ 。 
+
+1. V-T/V-I If a liquid or a river overflows , it flows over the edges of the container or place it is in. 溢出; 漫出 [no passive] 
+
+例： Pour in some of the broth, but not all of it, because it will probably overflow. 倒入部分肉汤，不要全部，因为很可能会溢出来。 
+
+例： The rivers overflowed their banks. 那些河里的水漫过了河岸。 
+
+2. V-I If a place or container is overflowing with people or things, it is too full of them. 挤满 [usu cont] 
+
+例： Schreiber addressed an auditorium overflowing with journalists. 施赖伯向挤满了新闻记者的观众席致辞。 
+
+3. N-COUNT The overflow is the extra people or things that something cannot contain or deal with because it is not large enough. (因空间所限) 无法容纳或安顿下的人或物 
+
+4. PHRASE If a place or container is filled to overflowing , it is so full of people or things that no more can fit in. 满满地 
+
+例： The kitchen garden was full to overflowing with fresh vegetables. 菜园里长满了新鲜的蔬菜。
+
+</div>
+
+!!【词组】
+
+:<div>
+
+buffer overflow 缓冲区溢出
+
+overflow valve 溢流阀
+
+overflow weir 溢流堰
+
+overflow with 充满着
+
+stack overflow 栈溢出；堆叠溢位；堆栈上限溢位
+
+overflow dam 溢流堰
+
+overflow tank 溢流罐
+
+overflow pipe 下导管，溢流管
+
+</div>
+
+!!【同近义词】
+
+:<div>
+
+vi. [计]溢出；泛滥；充溢
+
+spill over,flow over
+
+n. 充满，洋溢；泛滥；超值；溢值
+
+filled with,fresh,flood,flow,fullness
+
+vt. [计]使溢出；使泛滥；使充溢
+
+spill
+
+</div>
+
+!!【双语例句】
+
+:<div>
+
+ In addition , DB2 will also allocate some additional memory for overflow buffer .此外 ， DB2还将为溢出缓冲区分配一些额外的内存。
+
+ This space is also used for overflow : if there are more parameters than registers available for use , then they need to go in the stack space .这个空间也用来在溢出情况中使用 ：如果参数个数多于可用寄存器的数目 ，那么它们就需要进入堆栈空间中。
+
+ The overflow buffer is used to satisfy peak memory requirements for any heap in the instance shared memory region whenever a heap exceeds its configured size .每当某个堆超出了其配置的大小时，便可以使用溢出缓冲区来满足实例共享内存区内任何堆的峰值需求。
+
+</div>
+

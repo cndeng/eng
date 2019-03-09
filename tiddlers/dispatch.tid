@@ -1,0 +1,112 @@
+tags: words-pets5
+title: dispatch
+type: application/x-tiddler
+
+!!释义
+
+:<div>
+
+dispatch
+
+英[dɪˈspætʃ]美[dɪ'spætʃ]
+
+n. 派遣；急件
+
+vt. 派遣；分派
+
+[第三人称单数dispatches过去式dispatched过去分词dispatched现在分词dispatching]
+
+</div>
+
+!!【柯林斯英汉双解大词典】
+
+:<div>
+
+dispatch /dɪˈspætʃ/
+
+(dispatching,dispatched,dispatches) BRIT also  despatch 
+
+1. V-T If you dispatch someone to a place, you send them there for a particular reason. 派遣 [正式] 
+
+例： He had been continually dispatching scouts ahead. 他一直不断地派遣侦察员到前面去。 
+
+2. N-UNCOUNT Dispatch is also a noun. 派遣 
+
+例： The dispatch of the task force is purely a contingency measure. 派遣特遣队纯粹是应急措施。 
+
+3. V-T If you dispatch a message, letter, or parcel, you send it to a particular person or destination. 发送 [正式] 
+
+例： The victory inspired him to dispatch a gleeful telegram to Roosevelt. 胜利鼓舞了他发喜电给罗斯福。 
+
+4. N-UNCOUNT Dispatch is also a noun. 发送 
+
+例： We have 125 cases ready for dispatch. 我们有125个待发的箱子。
+
+</div>
+
+!!【词组】
+
+:<div>
+
+economic dispatch 经济调度；经济分配
+
+dispatch center 调度中心；运输中心；勤务中心
+
+load dispatch 负载等；负载配电
+
+with dispatch 
+
+</div>
+
+!!【同近义词】
+
+:<div>
+
+n. 派遣；急件
+
+urgent-mail
+
+vt. 派遣；分派
+
+mission,send along
+
+</div>
+
+!!【词语辨析】
+
+:<div>
+
+----------------------------------------
+
+↓ transmit, send, forward, deliver, ship, dispatch 的辨析 ↓
+
+----------------------------------------
+
+这组词都有“送出，发送，传送”的意思，其区别是：
+
+transmit >> 指将文件、消息等的内容或类似的东西发至某地或传达给他人。
+
+send >> 普通最常用词，含义广。指把人或物由一地送往另一地，而不涉及事物的内容或 送的方式。
+
+forward >> 指经过其他人或手段把东西转送给某人。
+
+deliver >> 指把信件、包裹等物寄发出去或交到某地，或直接交与某人，着重发送这一行为。
+
+ship >> 把通过水运、陆运或空运等方式运送东西。现常指商业上的运货，或将物品托运。
+
+dispatch >> 指为特殊目的而发送或派遣，强调紧急或快速。
+
+</div>
+
+!!【双语例句】
+
+:<div>
+
+ Later in the article , you will try this out by creating a selector that performs a simple dispatch .在本文的稍后部分中，您将通过创建执行简单分派的选择器来尝试此操作。
+
+ By arranging for objects of different types to implement common methods , we move the dispatch decision into the objects and out of an explicit conditional block .通过安排不同类型的对象来执行公共方法 ，我们将分派决定移到对象中并从显式条件块中消除。
+
+ A basic use of a selector is for simple dispatch , which means you can dynamically reroute the destination of a service call from one component or import to another .选择器的基本用途是进行简单的分派 ，这意味着您可以将服务调用的目标从一个组件或导入动态地重新路由到或导入另一个组件。
+
+</div>
+

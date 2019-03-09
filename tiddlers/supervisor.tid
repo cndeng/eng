@@ -1,0 +1,35 @@
+created: 20190215022256759
+modified: 20190215022410169
+tags: 生词
+title: supervisor
+
+!! 01. DESC
+:<div>
+
+```
+supervisor
+英 ['suːpəvaɪzə; 'sjuː]  美 ['supɚvaɪzɚ] 
+监督人，指导者；[管理] 管理人；检查员
+```
+|production supervisor |生产主管|
+|warehouse supervisor |仓库主管；仓库管理人|
+|sales supervisor |销售主管；销售监管；销售主任|
+|project supervisor |项目主管|
+|accounting supervisor |会计主管；财务主管|
+|safety supervisor |安全监督员；安全督导员|
+|operation supervisor |操作管理程序，操作主管人|
+|supervisor mode |管态，管理方式；监督模态|
+|purchasing supervisor |采购主管|
+</div>
+
+!! 02. Example
+:<div>
+
+```python
+#1. N-COUNT A supervisor is a person who supervises activities or people, especially workers or students. 监督员; 指导者
+...a full-time job as a supervisor at a factory.
+
+#…在一家工厂担任监督员的一项全职工作。
+```
+
+</div>

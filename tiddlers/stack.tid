@@ -1,0 +1,112 @@
+tags: words-pets5
+title: stack
+type: application/x-tiddler
+
+!!释义
+
+:<div>
+
+stack
+
+英[stæk]美[stæk]
+
+n. 堆；堆叠
+
+vt. 使堆叠；把…堆积起来
+
+vi. 堆积，堆叠
+
+n. (Stack)人名；(英)斯塔克；(德)施塔克
+
+</div>
+
+!!【柯林斯英汉双解大词典】
+
+:<div>
+
+stack /stæk/
+
+(stacking,stacked,stacks) 
+
+1. N-COUNT A stack of things is a pile of them. 摞; 堆 
+
+例： There were stacks of books on the bedside table and floor. 床头桌上和地板上有一摞摞的书。 
+
+2. V-T If you stack a number of things, you arrange them in neat piles. 堆放; 摞起 
+
+例： Mrs. Cathiard was stacking the clean bottles in crates. 卡提亚夫人当时正在把干净的瓶子堆放到板条箱里。 
+
+3. PHRASAL VERB Stack up means the same as . 堆放; 摞起 
+
+例： He ordered them to stack up pillows behind his back. 他命令他们在他背后堆放一些枕头。 
+
+4. N-PLURAL If you say that someone has stacks of something, you mean that they have a lot of it. 堆 [非正式] 
+
+例： If the job's that good, you'll have stacks of money. 如果那份工作真那么好，你就会有成堆的钱。 
+
+5. PHRASE If you say that the odds are stacked against someone, or that particular factors are stacked against them, you mean that they are unlikely to succeed in what they want to do because the conditions are not favourable. 形势对某人不利 
+
+例： The odds are stacked against civilians getting a fair trial. 形势对想得到公正判决的平民不利。
+
+</div>
+
+!!【词组】
+
+:<div>
+
+a stack of 一堆；一摞
+
+protocol stack 协议栈；协定堆
+
+stack up 堆积；累计；加起来
+
+stack room 书库
+
+stack gas 烟道气，废气；烟囱废气
+
+call stack 调用栈
+
+stack up against 争胜负；较量
+
+stack overflow 栈溢出；堆叠溢位；堆栈上限溢位
+
+stack pointer 栈指针；栈指示器；堆栈指示字
+
+stack trace 堆叠追踪；堆栈踪迹
+
+chimney stack 总合烟囱，仅一通道之烟囱
+
+stack effect 烟囱效应
+
+stack frame 堆栈结构；栈框架
+
+flare stack 火把烟囱
+
+</div>
+
+!!【同近义词】
+
+:<div>
+
+n. 堆；堆叠
+
+pile,bing
+
+vi. 堆积，堆叠
+
+pile,heap up
+
+</div>
+
+!!【双语例句】
+
+:<div>
+
+ Any thread of execution must have an execution stack .一个执行的线程必须有一个执行堆。
+
+ By enabling pass by reference , the parameters of the method are not copied to the stack with every remote call , which can be expensive .通过引用传递 ，方法的参数没有被复制到每个远程调用的堆栈中，而这个复制过程可能是代价高的。
+
+ Stack layers have been replaced by service components and there is so much reuse that the stacks have all but disappeared .堆栈层已经被服务组件替换掉了，由于有这么多的重用存在 ，使得这些堆栈几乎全部消失。
+
+</div>
+

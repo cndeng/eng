@@ -1,0 +1,132 @@
+tags: words-pets5
+title: transaction
+type: application/x-tiddler
+
+!!释义
+
+:<div>
+
+transaction
+
+英[træn'zækʃ(ə)n; trɑːn-; -'sæk-]美[træn'zækʃən]
+
+n. 交易；事务；办理；会报，学报
+
+</div>
+
+!!【柯林斯英汉双解大词典】
+
+:<div>
+
+transaction /trænˈzækʃən/
+
+(transactions) 
+
+1. N-COUNT A transaction is a piece of business, for example, an act of buying or selling something. 交易 [商业] [正式] 
+
+例： The transaction is completed by payment of the fee. 交易在支付费用之后就完成了。
+
+</div>
+
+!!【词组】
+
+:<div>
+
+transaction cost 交易成本，交易费用
+
+transaction processing [计]事务处理
+
+business transaction 商业交易；[经]经济业务
+
+transaction volume 交易量
+
+market transaction 市场交易
+
+transaction data 事务数据
+
+financial transaction 金融业务；财务交易，财务事项
+
+connected transaction 关联交易
+
+transaction tax 交易税
+
+transaction services 事务处理服务；事务处理业务
+
+exchange transaction 外汇交易
+
+cash transaction 现金交易
+
+commercial transaction 买卖，交易；商业行为
+
+credit transaction n. 信贷交易
+
+transaction value 成交价格；交易价
+
+spot transaction 现货交易
+
+futures transaction 期货交易；先物取引
+
+transaction processing system [计]事务处理系统
+
+sales transaction 交易；销售事务
+
+related party transaction 关联方交易；集团内交易；内幕交易
+
+</div>
+
+!!【同近义词】
+
+:<div>
+
+n. [贸易]交易；[计]事务；办理；会报，[图情]学报
+
+relations,trade,truck
+
+</div>
+
+!!【词语辨析】
+
+:<div>
+
+----------------------------------------
+
+↓ transfer, transaction, transition, transmission, transformation 的辨析 ↓
+
+----------------------------------------
+
+这是一组在考研和CET-6中经常出现的形近易混词。
+
+transfer >> n.转移，转让；(工作的)调动；(旅途中的)换乘，改变路线。
+
+The club's goalkeeper isn't happy here, and has asked a transfer.这个足球俱乐部的守门员在此过得不愉快，已经要求转会到其他俱乐部。
+
+transaction >> n.交易行为，处理。
+
+Transactions of shares on the stock exchange were up today.今天证券交易所的股票成交额上升了。
+
+transition >> n. (从一种情况到另一种的)过渡，更替。
+
+The transition from high school to college can be difficult for students.对于学生来说，从中学到大学的过渡会是困难的。
+
+transmission >> n.传播(比如疾病)；广播。
+
+The transmission of germs can occur by contact, breathing, and eating.细菌通过接触、呼吸和饮食传播。
+
+transformation >> n. (外观或性质的)改变，改观，转变。
+
+His character seems to have undergone a complete transformation since his marrige.他结婚之后性格判若两人。
+
+</div>
+
+!!【双语例句】
+
+:<div>
+
+ In this case , you should count the flow as one transaction .在这种情况下 ，您应该将该流程计算成一个事务。
+
+ Then we rollback this transaction .然后我们回滚这个事务。
+
+ I know I cannot , but this could be the workaround for me because with the local transaction , the cursor will have holdability.我知道我不能 ，但对我来说这可能是我的工作范围，因为在本地事务当中，游标具有可保持能力。
+
+</div>
+

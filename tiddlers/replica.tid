@@ -1,0 +1,52 @@
+tags: words-pets5
+title: replica
+type: application/x-tiddler
+
+!!释义
+
+:<div>
+
+replica
+
+英['replɪkə]美['rɛplɪkə]
+
+n. 复制品，复制物
+
+</div>
+
+!!【柯林斯英汉双解大词典】
+
+:<div>
+
+replica /ˈrɛplɪkə/
+
+(replicas) 
+
+1. N-COUNT A replica of something such as a statue, building, or weapon is an accurate copy of it. (雕像、建筑物或武器等的) 复制品 
+
+例： ...a human-sized replica of the Statue of Liberty. …一件真人大小的自由女神像的复制品。
+
+</div>
+
+!!【同近义词】
+
+:<div>
+
+n. [古][电影]复制品，复制物
+
+reproduction,ectype
+
+</div>
+
+!!【双语例句】
+
+:<div>
+
+ This time , suppose you define one replica shard .这一次 ，假设您定义一个复制碎片。
+
+ For example , you might have a synchronous replica on another machine in the same data center , and an asynchronous replica on a machine in another data center .例如 ，您可以在同一个数据中心的另一台机器上选择同步复制 ，而在另一个数据中心的机器上选择异步复制。
+
+ Another advantage is that this solution can handle cascading failures of application servers , which is only possible with more than one replica in a memory to memory configuration .此解决方案的另一个优势是能够处理应用服务器的级联故障 ，而这在内存到内存配置中只有使用多个副本才有可能实现。
+
+</div>
+

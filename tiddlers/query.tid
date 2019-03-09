@@ -1,0 +1,84 @@
+tags: words-pets5
+title: query
+type: application/x-tiddler
+
+!!释义
+
+:<div>
+
+query
+
+英['kwɪərɪ]美['kwɪri]
+
+n. 疑问，质问；疑问号 ；[计] 查询
+
+vt. 询问；对……表示疑问
+
+vi. 询问；表示怀疑
+
+</div>
+
+!!【柯林斯英汉双解大词典】
+
+:<div>
+
+query /ˈkwɪərɪ/
+
+(querying,queried,queries) 
+
+1. N-COUNT A query is a question, especially one that you ask an organization, publication, or expert. 疑问 
+
+例： If you have any queries about this insurance, please contact our call centre. 如果你对此项保险有任何疑问，请联系我们的呼叫中心。 
+
+2. V-T If you query something, you check it by asking about it because you are not sure if it is correct. 对…提出疑问 
+
+例： It's got a number you can call to query your bill. 你可以拨打一个号码，对账单提出质疑。 
+
+3. V-T To query means to ask a question. 询问 
+
+例： 'Is there something else?' Ray queried as Helen stopped speaking. 海伦话音刚落，雷便问道：“还有别的什么吗？”
+
+</div>
+
+!!【词组】
+
+:<div>
+
+query language 查询语言
+
+query builder 查询生成器
+
+structured query language 
+
+</div>
+
+!!【同近义词】
+
+:<div>
+
+n. 疑问，质问；疑问号
+
+doubt,question
+
+vt. [计]询问；对……表示疑问
+
+question,inquire about
+
+vi. [计]询问；表示怀疑
+
+question,inquire about
+
+</div>
+
+!!【双语例句】
+
+:<div>
+
+ Select a record from the results of this query .从这个查询的结果中选择一个记录。
+
+ If it supports both , can they be used in the same query ?如果对两者都支持 ，那么可以在同一次查询中使用它们吗？
+
+ However , if you cannot have the same partitions in test as in production , then use this information from the node where you execute the query in production and then use this information on test .然而 ，如果测试中无法具有与生产中相同的分区 ，那么就从生产中执行该查询的节点中收集该信息 ，然后在测试中使用该信息。
+
+</div>
+

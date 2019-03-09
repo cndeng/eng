@@ -1,0 +1,62 @@
+tags: words-pets4
+title: calculator
+type: application/x-tiddler
+
+!!释义
+
+:<div>
+
+calculator
+
+英['kælkjʊleɪtə]美['kælkjuletɚ]
+
+n. 计算器；计算者
+
+</div>
+
+!!【柯林斯英汉双解大词典】
+
+:<div>
+
+calculator /ˈkælkjʊˌleɪtə/
+
+(calculators) 
+
+1. N-COUNT A calculator is a small electronic device that you use for making mathematical calculations. 计算器 
+
+例： ...a pocket calculator. …一个袖珍计算器。
+
+</div>
+
+!!【词组】
+
+:<div>
+
+electronic calculator 电子计算器
+
+scientific calculator 
+
+</div>
+
+!!【同近义词】
+
+:<div>
+
+n. [计]计算器；计算者
+
+counter,numerator
+
+</div>
+
+!!【双语例句】
+
+:<div>
+
+ In this section , you will extend the Calculator sample to support time -based or scheduled destruction .在这一部分中 ，您将扩展计算器样本来支持基于时间或预定的销毁。
+
+ The natural next step in developing this service would be to allocate each user a particular calculator instance .开发这个服务的下一步自然是为每个用户分配一个特定的计算器实例。
+
+ Here is an implementation of a factorial calculator , where we use a conventional technique of calling a second , nested method to do the work .这里是一个阶乘计算器的实现 ，我们会使用一种常规的方法 ，通过调用第二个 ，嵌套的方法来完成计算。
+
+</div>
+

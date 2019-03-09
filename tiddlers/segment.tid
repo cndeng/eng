@@ -1,0 +1,128 @@
+tags: words-pets5
+title: segment
+type: application/x-tiddler
+
+!!释义
+
+:<div>
+
+segment
+
+英['segm(ə)nt]美['sɛɡmənt]
+
+vi. 分割
+
+n. 段；部分
+
+vt. 分割
+
+</div>
+
+!!【柯林斯英汉双解大词典】
+
+:<div>
+
+segment /ˈsɛgmənt/
+
+(segments) 
+
+1. N-COUNT A segment of something is one part of it, considered separately from the rest. 部分 
+
+例： ...the poorer segments of society. …社会中的较贫困阶层。 
+
+2. N-COUNT A segment of fruit such as an orange or grapefruit is one of the sections into which it is easily divided. (水果的) 瓣 
+
+例： Peel all the fruit except the lime and separate into segments. 除了酸橙之外，把所有的水果剥皮并分成瓣。 
+
+3. N-COUNT A segment of a circle is one of the two parts into which it is divided when you draw a straight line through it. 圆缺 
+
+例： The other children stood around the circle, one in each segment. 其他孩子围着圆圈而站,每一半圈里站着一个孩子。
+
+</div>
+
+!!【词组】
+
+:<div>
+
+market segment 细分市场；市场区隔；分块市场
+
+line segment n. 线段
+
+soft segment 软链段，柔性链段
+
+posterior segment 后段
+
+lower segment 下段；下节
+
+segment length 段长
+
+code segment 代码段；程序段，程序码区段
+
+short segment 短音段
+
+</div>
+
+!!【同近义词】
+
+:<div>
+
+vi. 分割
+
+to cut up,divide up
+
+n. [计]段；部分
+
+dan,proportion,part,portion,percent
+
+vt. 分割
+
+to cut up,deleave
+
+</div>
+
+!!【词语辨析】
+
+:<div>
+
+----------------------------------------
+
+↓ share, fraction, division, segment, part, fragment, section, piece, portion 的辨析 ↓
+
+----------------------------------------
+
+这组词都有“整体的一部分”的意思，其区别是：
+
+share >> 指共有的东西中应占有的一部分。
+
+fraction >> 指包含在全体中的一部分，暗示微不足道的一部分。
+
+division >> 通常指按类划分或分割成而的部分。常含抽象意义。
+
+segment >> 指某物的特定部分或自然形成的部分，也指线形物品的一段。
+
+part >> 含义广，最普通用词。常指整体中可大可小的一部分，也可指整体中可分开的独立部分。
+
+fragment >> 指因破裂、分割等产生的支离破碎、不规则的一部分。
+
+section >> 指整体中的分区，部分与部分之间有显著界限。
+
+piece >> 指整体中的一些个体，尤指从某个整体上分出来的一部分。
+
+portion >> 侧重从整体中所分配到的那一部分，含一定的独立意义。
+
+</div>
+
+!!【双语例句】
+
+:<div>
+
+ Each segment contains rows from only one table defined in the table space .每个段只能包含该表空间中定义的一个表中的行。
+
+ However , each of the following configurations takes one segment ( 256MB ) away from the database shared memory .但是 ，下面的每种配置都会从数据库共享内存中拿出一个段（
+
+ 256MB）。
+
+ Listing 2 shows a segment from one of these files .清单 2展示了来自这样一个文件的片段。
+
+</div>
+

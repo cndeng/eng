@@ -1,0 +1,50 @@
+created: 20190215023222306
+modified: 20190215023336442
+tags: 生词
+title: depression
+
+!! 01. DESC
+:<div>
+
+```
+depression
+英 [dɪ'preʃ(ə)n]  美 [dɪ'prɛʃən] 
+n. 沮丧；忧愁；抑郁症；洼地；不景气；低气压区
+```
+|great depression |大萧条（美国经济大萧条时期）|
+|economic depression |[经]经济萧条|
+|postpartum depression |产后忧郁症，产后抑郁|
+|clinical depression |[心理学]临床忧郁症|
+|tropical depression |热带低气压；热带气旋|
+|freezing point depression |冰点降低|
+|manic depression |躁郁症，躁狂抑郁状态|
+|chronic depression |慢性萧条；[医]慢性抑郁|
+|depression area |沉降区|
+|prosperity and depression |繁荣与萧条|
+|mental depression |心理抑郁；精神消沈|
+|spreading depression |扩散性抑制|
+</div>
+
+!! 02. Example
+:<div>
+
+```python
+#1. N-VAR Depression is a mental state in which you are sad and feel that you cannot enjoy anything, because your situation is so difficult and unpleasant. 抑郁
+Mr. Thomas was suffering from depression.
+#托马斯先生当时正受抑郁症折磨。
+
+#2. N-COUNT A depression is a time when there is very little economic activity, which causes a lot of unemployment and poverty. 萧条期
+He never forgot the hardships he witnessed during the Great Depression of the 1930s.
+#他从未忘记20世纪30年代经济大萧条时期他所目睹的艰辛。
+
+#3. N-COUNT A depression in a surface is an area which is lower than the parts surrounding it. 洼地
+...an area pockmarked by rain-filled depressions.
+
+# …一个到处都是积满雨水的洼坑的地带。
+
+#4. N-COUNT A depression is a mass of air that has a low pressure and that often causes rain. 低气压
+To the northwest lies a depression with clouds and rain.
+#西北方向有一个云雨密布的低气压。
+```
+
+</div>

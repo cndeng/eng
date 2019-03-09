@@ -1,0 +1,22 @@
+tags: words-pets5
+title: red
+type: application/x-tiddler
+
+!!释义
+
+:<div>
+
+</div>
+
+!!【双语例句】
+
+:<div>
+
+ How would you get the last 10 keys redis ?你将如何获得最后的 10键使用？
+
+ See Redis Security : Redis is designed to be accessed by trusted clients inside trusted environments .看到使用安全 ：使用可信任客户在受信任的环境中访问。
+
+ APC and Wincache aren't the only choices for a user cache ; memcache and Redis are other popular choices that don 't require you to run the user cache on the same server as the Web server . memcache和 Redis是不需要您在与 Web服务器相同的服务器上运行用户缓存的其他流行选择。
+
+</div>
+

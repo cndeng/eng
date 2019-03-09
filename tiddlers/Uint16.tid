@@ -1,0 +1,24 @@
+created: 20190128073011273
+modified: 20190220024237575
+tags: composition
+title: Uint16
+
+!! 01. write
+:<pre>
+
+Chinese [[capital]] city a regulation in the Word No-[[Tobacco|tobacco]] Day, from the day on, smoking is [[legally]] banned in the public areas in Beijing, such as [[restaurant]]s, [[subway]]s, and offices. Anyone who break the law may be [[fined|fine]] with 50 to 200 yuan according to the [[regulation]]. [[Moreover|moreover]], those people who were fined for three times will be named on the government website as a warning.
+
+```bash
+# 中国首都北京规定“无烟日”，从这一天起，北京的餐馆、地铁、办公室等公共场所依法禁止吸烟。根据规定，任何违反法律的人都可能被处以50到200元的罚款。此外，那些被罚款三次的人将在政府网站上被点名作为警告。
+```
+    Not only [[individual]]s, but also the business should be responsible for public smoking. Business should put non-smoking signs on their public areas, or they will be [[fined|fine]]. Some [[restaurant]]s’ owners have complained that they are afraid of confliction among the customs and them. But some others have already separated their [[restaurant]] into two areas,smoking and non-smoking area.
+
+```bash
+# 不仅个人，企业也应该对公众吸烟负责。企业应在公共场所张贴禁烟标志，否则将被罚款。一些餐馆的老板抱怨说，他们害怕与海关发生冲突。但是有些人已经把他们的餐厅分成了吸烟区和非吸烟区。
+```
+    In my opinion, smoking in the public area is harmful and [[impolite]]. But it is not [[realistic]] for smokers to stop smoking for a very long time.So it is [[critical]] to clearly separate the smoking area and the non-smoking area.	
+
+```bash
+# 在我看来，在公共场所吸烟是有害和不礼貌的。但是对于吸烟者来说，长时间戒烟是不现实的。因此，明确区分吸烟区和非吸烟区是非常重要的。
+```
+</pre>

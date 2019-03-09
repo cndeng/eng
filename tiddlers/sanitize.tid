@@ -1,0 +1,46 @@
+created: 20190227031238282
+creator: liming
+modified: 20190227030229545
+modifier: liming
+tags: 生词 words-pets3
+title: sanitize
+type: application/x-tiddler
+
+!!释义
+
+:<div>
+
+sanitize
+
+英['sænɪtaɪz]美vt. 使…无害；给…消毒；对…采取卫生措施
+
+[过去式sanitized过去分词sanitized现在分词sanitizing]
+
+</div>
+
+!!【柯林斯英汉双解大词典】
+
+:<div>
+
+sanitize /ˈsænɪˌtaɪz/
+
+BRIT also sanitise 
+
+1. V-T To sanitize an activity or a situation that is unpleasant or unacceptable means to describe it in a way that makes it seem more pleasant or more acceptable. 美化 
+
+例： ...crime writers who sanitize violence and make it respectable. ...美化暴力并使其令人容易接受的犯罪小说家们。
+
+</div>
+
+!!【双语例句】
+
+:<div>
+
+ The Sanitize component is used when you want data to fit a certain set of rules .如果您希望数据符合某些规则 ，就应该使用 Sanitize组件。
+
+ You can view the code for these methods in cake / libs / sanitize . php to get a better handle on what's involved .可以在 cake / libs / sanitize . php 中查看这些方法的代码以便更好地处理它所涉及的内容。
+
+ Unlike the ACL component discussed in Part 2 , the Sanitize component is included by adding a line to the top of your controller .与第 2部分中讨论的 ACL组件不同 ，只在控制器的顶部添加一行代码即可包含 Sanitize组件。
+
+</div>
+
