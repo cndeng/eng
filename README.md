@@ -2,6 +2,8 @@
 eng
 
 ## INSTALL NPM
+:<div>
+
 ```bash
 function npm_install(){
     wget https://nodejs.org/dist/v10.15.0/node-v10.15.0-linux-x64.tar.xz
@@ -11,7 +13,7 @@ function npm_install(){
     . /etc/profile.d/env.sh
 }
 ```
-
+</div>
 ## INSTALL tiddlywiki
 
 ```bash
